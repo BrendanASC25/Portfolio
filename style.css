@@ -1,0 +1,54 @@
+.Portfolio {
+    font-family: Helvetica;
+    background-color: gray;
+    color: white;
+    font-size: 32px;
+    padding: 5px;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+
+img {
+    width: 1000px;
+}
+
+.Hobbies {
+font-family: Helvetica;
+    background-color: purple;
+    color: black;
+    font-size: 48px;
+    padding: 5px;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.Education {
+font-family: Helvetica;
+    background-color: red;
+    color: black;
+    font-size: 48px;
+    padding: 5px;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.Experiences {
+font-family: Helvetica;
+    background-color: green;
+    color: black;
+    font-size: 48px;
+    padding: 5px;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+
+.Favorites {
+font-family: Helvetica;
+    background-color: Yellow;
+    color: black;
+    font-size: 48px;
+    padding: 5px;
+    justify-content: flex-end;
+    flex-direction: row;
+}
